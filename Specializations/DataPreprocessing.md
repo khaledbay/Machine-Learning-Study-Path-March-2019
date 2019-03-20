@@ -2,7 +2,7 @@
 
 Data preprocessing is the process of gathering, combining, structuring and organizing data so it can be analyzed as part of data visualization, analytics and machine learning applications.
 
-Data preprocessing is an ensemble of technique that involves transforming raw data into an understandable format.
+Data preprocessing is an ensemble of techniques that involves transforming raw data into an understandable format.
 Real-world data is often incomplete, inconsistent, and/or lacking in certain behaviors or trends, and is likely to contain many errors. Data preprocessing is a proven method of resolving such issues.
 
 It' the core ability of any data scientist or data engineer, and you must be able to manipulate, clean, and structure data during you everyday work (besides expecting that this will take the most of your daily-time!).
@@ -15,7 +15,6 @@ The general steps of data preprocessing are the following:
 
 - Data Overview
 - Data Cleaning
-- Data
-- Data Discretization
 - Data Integration
-- Data Red
+- Data Transformation
+- Data Reduction
