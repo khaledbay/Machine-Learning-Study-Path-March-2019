@@ -1,0 +1,2 @@
+# GeoGebra
+[GeoGebra](https://www.geogebra.org/) (GG) is a powerful dynamic mathematics application for all levels of education that combines geometry, algebra, spreadsheet, grapher, statistics and infinitesimal calculation into a single easy-to-use software. The GeoGebra community is growing exponentially with millions of users based in many countries. GeoGebra has become the leading provider of software for advanced mathematics, science support, technology, engineering and mathematics and innovations in teaching and learning around the world.
